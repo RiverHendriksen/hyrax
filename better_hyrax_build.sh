@@ -32,7 +32,7 @@ cd ..
 
 # Reconfigure and rebuild libdap4
 rm libdap4_config.log
-rm libdap4_make.logt
+rm libdap4_make.log
 rm libdap4_make_check.log
 rm libdap4_make_install.log
 cd libdap4
@@ -45,7 +45,7 @@ cd ..
 
 # Reconfigure and rebuild bes
 rm bes_config.log
-rm bes_make.logt
+rm bes_make.log
 rm bes_make_check.log
 rm bes_make_install.log
 cd bes
